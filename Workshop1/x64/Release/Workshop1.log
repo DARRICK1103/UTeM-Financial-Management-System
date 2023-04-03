@@ -1,0 +1,56 @@
+﻿  Manager.cpp
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(210,17): warning C4101: 'facultymanager': unreferenced local variable
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(312,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(664,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(904,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(1184,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(1889,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(1892,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(1895,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(1898,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(2073,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(2076,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(2079,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(2082,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(2247,41): warning C4244: 'argument': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(2369,41): warning C4244: 'argument': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\numeric(34,26): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\numeric(43): message : see reference to function template instantiation '_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+C:\Users\User\Desktop\coding sources\Workshop1\Workshop1\Manager.cpp(2226): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+  Generating code
+  1 of 1299 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Workshop1.vcxproj -> C:\Users\User\Desktop\coding sources\Workshop1\x64\Release\Workshop1.exe
